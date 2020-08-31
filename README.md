@@ -12,3 +12,8 @@ Download และ pre-process ภาพถ่ายดาวเทียม Sen
     - EPSG:32648 - WGS 84 / UTM zone 48N
     - 293985.0, 30.0, 0.0, 1874415.0, 0.0, -30.0
  - บันทึกภาพเก็บไว้ในรูปแบบ GeoTIFF และ แสดงผลภาพภายใน notebook
+
+ทั้งนี้สามารถตั้งต้นงานจาก Notebook ที่เตรียมไว้ได้
+https://github.com/surasakcho/crop_insurance_recruit/blob/master/Assignment_Remote_Sensing_Data_Specialist.ipynb
+
+
